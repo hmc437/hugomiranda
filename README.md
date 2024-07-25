@@ -8,3 +8,4 @@ En los últimos meses he explorado y estudiado los servicios de Google Cloud y A
 ⚪ Microsoft Certified: Azure AI Fundamentals (AI-900)
 ⚪ AWS Certified Solutions Architect - Associate (SAA-C03)
 ⚪ Google Cloud Digital Leader
+
